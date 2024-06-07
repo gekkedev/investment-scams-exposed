@@ -4,13 +4,15 @@ Investment scam websites are increasingly common, often promising impossibly hig
 
 ## Key Data on Scam Websites
 
-| Website URL          | Hoster         | Middleman Provider | Alleged Violations                   | Accusations                               |
-|----------------------|----------------|--------------------|--------------------------------------|-------------------------------------------|
-| example-scam1.com    | HostGator      | Cloudflare         | Unregulated Investment Platform      | Promises high returns, crypto fraud       |
-| example-scam2.com    | BlueHost       | Cloudflare         | Fraudulent Investment Scheme         | Impersonation, unauthorized financial advice |
-| example-scam3.cn     | GoDaddy        | Cloudflare         | Illegal Financial Activities         | Fake investment opportunities, crypto laundering |
-| example-scam4.net    | Namecheap      | Cloudflare         | Unlicensed Financial Services        | Money laundering, high return promises    |
-| example-scam5.org    | SiteGround     | Cloudflare         | Unauthorized Investment Platform     | Scam investments, crypto fraud            |
+| Website URL          | Hoster         | Behind [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse)? | Domain Registrar | Invitation Code | Alleged Violations                   | Accusations                               |
+|----------------------|----------------|--------------------|------------------|-----------------|--------------------------------------|-------------------------------------------|
+| [tunework.live](https://tunework.live) | N/A | Yes                | [Alibaba](https://www.alibabacloud.com/domain) | `HK3YNF`      | Cryptocurrency investment scam            | Advertised as a work opportunity          |
+| example-scam1.com    | HostGator      | Yes                | HostGator        | N/A             | Unregulated Investment Platform            | Promises high returns, crypto fraud       |
+| example-scam2.com    | BlueHost       | Yes                | BlueHost         | N/A             | Fraudulent Investment Scheme            | Impersonation, unauthorized financial advice |
+| example-scam3.cn     | GoDaddy        | Yes                | GoDaddy          | N/A             | Illegal Financial Activities             | Fake investment opportunities, crypto laundering |
+| example-scam4.net    | Namecheap      | Yes                | Namecheap        | N/A             | Unlicensed Financial Services            | Money laundering, high return promises    |
+| example-scam5.org    | SiteGround     | Yes                | SiteGround       | N/A             | Unauthorized Investment Platform         | Scam investments, crypto fraud            |
+
 
 ## Details
 

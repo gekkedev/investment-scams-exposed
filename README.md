@@ -27,6 +27,7 @@ The following domains are shielded by [OwnRegistrar, Inc.](http://www.ownregistr
 - 20-bnpparibas.com
 - 21-bnpparibas.com
 - 29-bnpparibas.com
+- mabanque-bnpparibas.com
 - aktivierung-o2de.online
 - derspk-aktualisierung369.xyz
 - kvk2024.info

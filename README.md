@@ -6,6 +6,7 @@ Investment scam websites are increasingly common, often promising impossibly hig
 
 | Website URL          | Hoster         | DNS middleman | Domain Registrar | Invitation Code | Alleged Violations | Impersonations / brand infringements |
 |----------------------|----------------|--------------------|------------------|-----------------|--------------------------------------|-------------------------------------------|
+| [tunework.world](https://tunework.world) | N/A | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [Alibaba](https://www.alibabacloud.com/domain) |  `HK3YNF` | redirects to tunework.live | - |
 | [tunework.live](https://tunework.live) | N/A | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [Alibaba](https://www.alibabacloud.com/domain) | `HK3YNF` | cryptocurrency investment scam advertised as a work opportunity | alleges to be partners with Google, Apple, Microsoft, Meta, TikTok, and |
 | [ilpudse.pics](https://ilpudse.pics) | N/A | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [Public Domain Registry](https://publicdomainregistry.com) | - | investment scam | pretends to be [Spiegel](https://www.spiegel.de) |
 | [www.adjust6.com](www.adjust6.com) | N/A | [Gname](https://www.gname.com) | [Gname](https://www.gname.com) | - | forwards to [a WhatsApp number](https://api.whatsapp.com/send/?phone=447562167485&text&type=phone_number&app_absent=0) which tells you to visit [adjust-work.net](https://www.adjust-work.net) | [adjust.com](https://www.adjust.com) |

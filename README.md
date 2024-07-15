@@ -16,6 +16,7 @@ Investment scam websites are increasingly common, often promising impossibly hig
 | [sportsmentorshipprogram.org](http://sportsmentorshipprogram.org) | [Sav.com, LLC](http://sav.com) (suspected) | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [Sav.com, LLC](http://sav.com) | - | collecting contact data for an investment scam | [Tagesschau](https://www.tagesschau.de) |
 | [app-sparkasse.info](https://app-sparkasse.info) | N/A | [OwnRegistrar, Inc.](http://www.ownregistrar.com) | [OwnRegistrar, Inc.](http://www.ownregistrar.com) | - | redirects to [reaktivierungs-sprks.xyz](https://reaktivierungs-sprks.xyz) for phishing | [Sparkasse](https://www.sparkasse.de) |
 | [reaktivierungs-sprks.xyz](https://reaktivierungs-sprks.xyz) | N/A | [OwnRegistrar, Inc.](http://www.ownregistrar.com) | [OwnRegistrar, Inc.](http://www.ownregistrar.com) | - | phishing | [Sparkasse](https://www.sparkasse.de) |
+| [dacmcrypto.com](https://www.dacmcrypto.com/h5/#/pages/mine/register?invite_code=HFBHXR.) | N/A | [NameSilo, LLC](https://www.namesilo.com/report_abuse.php) | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | `HFBHXR` | cryptocurrency investment scam (presented as mining) | - |
 
 ## TODO domains
 The following domains are shielded by [OwnRegistrar, Inc.](http://www.ownregistrar.com) but their names give away that they're most likely phishing:

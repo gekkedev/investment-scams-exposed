@@ -18,6 +18,7 @@ Investment scam websites are increasingly common, often promising impossibly hig
 | [reaktivierungs-sprks.xyz](https://reaktivierungs-sprks.xyz) | N/A | [OwnRegistrar, Inc.](http://www.ownregistrar.com) | [OwnRegistrar, Inc.](http://www.ownregistrar.com) | - | phishing | [Sparkasse](https://www.sparkasse.de) |
 | [dacmcrypto.com](https://www.dacmcrypto.com/h5/#/pages/mine/register?invite_code=HFBHXR.) | N/A | [NameSilo, LLC](https://www.namesilo.com/report_abuse.php) | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | `HFBHXR` | cryptocurrency investment scam (presented as mining) | - |
 | [msssetd.com](https://msssetd.com/#/login?type=register&yCode=88jo9762308) | N/A | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [CNO Bin / Ordertld](http://www.ordertld.com/support.html) | `88jo9762308` | cryptocurrency investment scam | - |
+| https://wealthjourney.world | - | [GoDaddy.com, LLC](https://supportcenter.godaddy.com/AbuseReport) | [Wild West Domains, LLC](https://www.wildwestdomains.com) | - | gateway for a Whatsapp-based investment scam | impersonates [Martin Currie Limited](https://www.martincurrie.com) in Whatsapp |
 
 ## TODO domains
 The following domains are shielded by [OwnRegistrar, Inc.](http://www.ownregistrar.com) but their names give away that they're most likely phishing:

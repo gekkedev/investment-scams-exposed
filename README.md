@@ -14,14 +14,15 @@ Investment scam websites are increasingly common, often promising impossibly hig
 | [m.aocfx.com](https://m.aocfx.com) | N/A | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [Gname](https://www.gname.com) | `BUOYGV` | cryptocurrency investment scam involving the Telegram username `BainCapitalDelia` | impersonates [BainCapital](https://www.baincapital.com) in WhatsApp & uses their logo |
 | [inwinoo.com](https://inwinoo.com) | N/A | [Namecheap](http://www.namecheap.com) | [Namecheap](http://www.namecheap.com) | - | collecting contact data for an investment scam | [Tagesschau](https://www.tagesschau.de) |
 | [sportsmentorshipprogram.org](http://sportsmentorshipprogram.org) | [Sav.com, LLC](http://sav.com) (suspected) | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [Sav.com, LLC](http://sav.com) | - | collecting contact data for an investment scam | [Tagesschau](https://www.tagesschau.de) |
-| [app-sparkasse.info](https://app-sparkasse.info) | N/A | [OwnRegistrar, Inc.](http://www.ownregistrar.com) | [OwnRegistrar, Inc.](http://www.ownregistrar.com) | - | redirects to [reaktivierungs-sprks.xyz](https://reaktivierungs-sprks.xyz) for phishing | [Sparkasse](https://www.sparkasse.de) |
-| [reaktivierungs-sprks.xyz](https://reaktivierungs-sprks.xyz) | N/A | [OwnRegistrar, Inc.](http://www.ownregistrar.com) | [OwnRegistrar, Inc.](http://www.ownregistrar.com) | - | phishing | [Sparkasse](https://www.sparkasse.de) |
+| [app-sparkasse.info](https://app-sparkasse.info) | N/A | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [OwnRegistrar, Inc.](https://ownregistrar.com/abuse) | - | redirects to [reaktivierungs-sprks.xyz](https://reaktivierungs-sprks.xyz) for phishing | [Sparkasse](https://www.sparkasse.de) |
+| [reaktivierungs-sprks.xyz](https://reaktivierungs-sprks.xyz) | N/A | [OwnRegistrar, Inc.](https://ownregistrar.com/abuse) | [OwnRegistrar, Inc.](https://ownregistrar.com/abuse) | - | phishing | [Sparkasse](https://www.sparkasse.de) |
+| [sid-check.com](https://sid-check.com) | N/A | [OwnRegistrar, Inc.](https://ownregistrar.com/abuse) | [OwnRegistrar, Inc.](https://ownregistrar.com/abuse) | - | phishing | [Sparkasse](https://www.sparkasse.de) |
 | [dacmcrypto.com](https://www.dacmcrypto.com/h5/#/pages/mine/register?invite_code=HFBHXR.) | N/A | [NameSilo, LLC](https://www.namesilo.com/report_abuse.php) | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | `HFBHXR` | cryptocurrency investment scam (presented as mining) | - |
 | [msssetd.com](https://msssetd.com/#/login?type=register&yCode=88jo9762308) | N/A | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [CNO Bin / Ordertld](http://www.ordertld.com/support.html) | `88jo9762308` | cryptocurrency investment scam | - |
 | https://wealthjourney.world | - | [GoDaddy.com, LLC](https://supportcenter.godaddy.com/AbuseReport) | [Wild West Domains, LLC](https://www.wildwestdomains.com) | - | gateway for a Whatsapp-based investment scam | impersonates [Martin Currie Limited](https://www.martincurrie.com) in Whatsapp |
 
 ## TODO domains
-The following domains are shielded by [OwnRegistrar, Inc.](http://www.ownregistrar.com) but their names give away that they're most likely phishing:
+The following domains are shielded by [OwnRegistrar, Inc.](https://ownregistrar.com/abuse) but their names give away that they're most likely phishing:
 - bundesfinanz-ministerium.info
 - finanzamt2024.online
 - finanzamt2024.info
@@ -45,7 +46,7 @@ DNS middleman services hide the IP addresses of servers. Whilst originally desig
 |-------------------------|---------------------------------------------------|
 | *.registrar-servers.com | [Namecheap](http://www.namecheap.com)             |
 | *.ns.cloudflare.com     | [Cloudflare](https://www.cloudflare.com)          |
-| *.managedns.org         | [OwnRegistrar, Inc.](http://www.ownregistrar.com) |
+| *.managedns.org         | [OwnRegistrar, Inc.](https://ownregistrar.com/abuse) |
 
 ## Contributing
 If you find any new domains, just open an issue with the domain or create a pull request with the amendments.

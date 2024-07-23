@@ -1,4 +1,4 @@
-# (Investment) Scam Websites Exposed
+# (Investment) Scam websites
 
 Investment scam websites are increasingly common, often promising impossibly high returns and involving cryptocurrency transfers to obscure their traces. Many of these sites are created by individuals or groups based in China. This document aims to expose these websites, analyze their key details, and present the necessary information to take them down.
 
@@ -20,13 +20,19 @@ Investment scam websites are increasingly common, often promising impossibly hig
 | [sid-check.com](https://sid-check.com) | ? | [OwnRegistrar, Inc.](https://ownregistrar.com/abuse) | [OwnRegistrar, Inc.](https://ownregistrar.com/abuse) | - | phishing | [Sparkasse](https://www.sparkasse.de) |
 | [dacmcrypto.com](https://www.dacmcrypto.com/h5/#/pages/mine/register?invite_code=HFBHXR.) | ? | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [NameSilo, LLC](https://www.namesilo.com/report_abuse.php) | `HFBHXR` | cryptocurrency investment scam (presented as mining) | - |
 | [dacm-crypto.com](https://www.dacm-crypto.com/h5/#/pages/mine/register?invite_code=DL7QGZ) | ? | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [GoDaddy.com, LLC](https://supportcenter.godaddy.com/AbuseReport) | `DL7QGZ` | cryptocurrency investment scam (presented as mining) | - |
+| [alf-crypto.top](https://www.alf-crypto.top/h5/#/pages/mine/register?invite_code=UJJGWR) | ? | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [NameSilo, LLC](https://www.namesilo.com/report_abuse.php) | `UJJGWR` | cryptocurrency investment scam (presented as mining) | - |
 | [msssetd.com](https://msssetd.com/#/login?type=register&yCode=88jo9762308) | ? | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [CNO Bin / Ordertld](http://www.ordertld.com/support.html) | `88jo9762308` | cryptocurrency investment scam | - |
 | https://wealthjourney.world | suspected: GoDaddy | [GoDaddy.com, LLC](https://supportcenter.godaddy.com/AbuseReport) | [Wild West Domains, LLC](https://www.wildwestdomains.com) | - | gateway for a Whatsapp-based investment scam | impersonates [Martin Currie Limited](https://www.martincurrie.com) in Whatsapp |
 
 ## Legend
-**DNS middleman** - the company that offers anonymization services for the web server regardless of content, essentially enabling cybercrime
-**N/A** - not applicable, i.e. when a *DNS middleman* was not chosen (easier prosecution)
-**?** hoster cannot be determined thanks to the *DNS middleman*
+**DNS middleman** - the company that offers anonymization services for the web server regardless of content, essentially enabling cybercrime  
+**N/A** - not applicable, i.e. when a *DNS middleman* was not chosen (easier prosecution)  
+**?** hoster cannot be determined thanks to the *DNS middleman*  
+### Headings
+ **Domain Registrar** - the company registering the domains for scammers & managing the registration  
+ **Invitation Code** - investment scam websites often provide referral codes which usually aren't mandatory for signing up. Whether this is useful for tracking has yet to be determined.  
+ **Alleged Violations** - details on the wrongdoings, but without redefining them, i.e. `phishing`  
+ **Impersonations / brand infringements** - crucial information to take them down the scam website
 
 ## TODO domains
 The following domains are shielded by [OwnRegistrar, Inc.](https://ownregistrar.com/abuse) but their names give away that they're most likely phishing:
@@ -45,7 +51,19 @@ The following domains are shielded by [OwnRegistrar, Inc.](https://ownregistrar.
 - derspk-aktualisierung369.xyz
 - kvk2024.info
 
-## Explanation
+## Explanation of scam types
+
+## Accusations to involved careless parties
+### Domain registrars
+- not cross-checking newly registered domains with brand databases to flag them for manual revies
+  - can be done as a post-purchase process to avoid impacts on sales
+- TBD
+### DNS middlemen
+TDB
+### Web hosters
+TDB
+### Copyright holders / brands
+TDB
 
 ## Nameservers
 DNS middleman services hide the IP addresses of servers. Whilst originally designed as a cybersecurity measure, those providers see no problem with being an enabler of crime and refuse to take action even when the scam report is very easy to validate. The nameservers indirectly reveal who the DNS middleman is, as their DNS servers listed in the whois query can be mapped to the middleman:
@@ -57,9 +75,9 @@ DNS middleman services hide the IP addresses of servers. Whilst originally desig
 Choosing names different from the company name and not running any landing page under these domains indicates how well-aware these companies are of the abuse potential associated with the services they offer. Their ideal solution consists not of taking action, but instead of trying to mask their affiliation.
 
 ## Contributing
-If you find any new domains, just open an issue with the domain or create a pull request with the amendments.
+If you find any new domains, just open an issue with the domain or (even better) create a pull request with the amendments.
 
 ## Conclusion
 
-These websites represent a significant threat to unsuspecting investors, primarily through the promise of high returns and the use of cryptocurrency to obscure their operations. By exposing these websites and detailing their operations, we aim to help authorities and internet service providers take action to shut them down and protect potential victims.
+These websites represent a significant threat to unsuspecting web users / investors, primarily through the promise of high returns and the use of cryptocurrency to obscure their operations. By exposing these websites and detailing their operations, we aim to help authorities and internet service providers take action to shut them down and protect potential victims.
 

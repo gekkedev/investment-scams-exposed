@@ -6,21 +6,27 @@ Investment scam websites are increasingly common, often promising impossibly hig
 
 | Website URL          | Hoster         | DNS middleman | Domain Registrar | Invitation Code | Alleged Violations | Impersonations / brand infringements |
 |----------------------|----------------|--------------------|------------------|-----------------|--------------------------------------|-------------------------------------------|
-| [tunework.world](https://tunework.world) | N/A | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [Alibaba](https://www.alibabacloud.com/domain) |  `HK3YNF` | redirects to tunework.live | - |
-| [tunework.live](https://tunework.live) | N/A | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [Alibaba](https://www.alibabacloud.com/domain) | `HK3YNF` | cryptocurrency investment scam advertised as a work opportunity | alleges to be partners with Google, Apple, Microsoft, Meta, TikTok, and |
-| [ilpudse.pics](https://ilpudse.pics) | N/A | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [Public Domain Registry](https://publicdomainregistry.com) | - | investment scam | pretends to be [Spiegel](https://www.spiegel.de) |
-| [www.adjust6.com](www.adjust6.com) | N/A | [Gname](https://www.gname.com) | [Gname](https://www.gname.com) | - | forwards to [a WhatsApp number](https://api.whatsapp.com/send/?phone=447562167485&text&type=phone_number&app_absent=0) which tells you to visit [adjust-work.net](https://www.adjust-work.net) | [adjust.com](https://www.adjust.com) |
-| [adjust-work.net](https://www.adjust-work.net) | N/A | [Gname](https://www.gname.com) | [Gname](https://www.gname.com) | `bWejuP` | Cryptocurrency investment scam involving the Telegram number +33745348532 | using the name and logo of [adjust.com](https://www.adjust.com) |
-| [m.aocfx.com](https://m.aocfx.com) | N/A | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [Gname](https://www.gname.com) | `BUOYGV` | cryptocurrency investment scam involving the Telegram username `BainCapitalDelia` | impersonates [BainCapital](https://www.baincapital.com) in WhatsApp & uses their logo |
-| [inwinoo.com](https://inwinoo.com) | N/A | [Namecheap](http://www.namecheap.com) | [Namecheap](http://www.namecheap.com) | - | collecting contact data for an investment scam | [Tagesschau](https://www.tagesschau.de) |
+| [tunework.world](https://tunework.world) | ? | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [Alibaba](https://www.alibabacloud.com/domain) |  `HK3YNF` | redirects to tunework.live | - |
+| [tunework.live](https://tunework.live) | ? | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [Alibaba](https://www.alibabacloud.com/domain) | `HK3YNF` | cryptocurrency investment scam advertised as a work opportunity | alleges to be partners with Google, Apple, Microsoft, Meta, TikTok, and |
+| [ilpudse.pics](https://ilpudse.pics) | ? | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [Public Domain Registry](https://publicdomainregistry.com) | - | investment scam | pretends to be [Spiegel](https://www.spiegel.de) |
+| [www.adjust6.com](www.adjust6.com) | ? | [Gname](https://www.gname.com) | [Gname](https://www.gname.com) | - | forwards to [a WhatsApp number](https://api.whatsapp.com/send/?phone=447562167485&text&type=phone_number&app_absent=0) which tells you to visit [adjust-work.net](https://www.adjust-work.net) | [adjust.com](https://www.adjust.com) |
+| [adjust-work.net](https://www.adjust-work.net) | ? | [Gname](https://www.gname.com) | [Gname](https://www.gname.com) | `bWejuP` | Cryptocurrency investment scam involving the Telegram number +33745348532 | using the name and logo of [adjust.com](https://www.adjust.com) |
+| [m.aocfx.com](https://m.aocfx.com) | ? | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [Gname](https://www.gname.com) | `BUOYGV` | cryptocurrency investment scam involving the Telegram username `BainCapitalDelia` | impersonates [BainCapital](https://www.baincapital.com) in WhatsApp & uses their logo |
+| [inwinoo.com](https://inwinoo.com) | ? | [Namecheap](http://www.namecheap.com) | [Namecheap](http://www.namecheap.com) | - | collecting contact data for an investment scam | [Tagesschau](https://www.tagesschau.de) |
 | [sportsmentorshipprogram.org](http://sportsmentorshipprogram.org) | [Sav.com, LLC](http://sav.com) (suspected) | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [Sav.com, LLC](http://sav.com) | - | collecting contact data for an investment scam | [Tagesschau](https://www.tagesschau.de) |
-| [app-sparkasse.info](https://app-sparkasse.info) | N/A | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [OwnRegistrar, Inc.](https://ownregistrar.com/abuse) | - | redirects to [reaktivierungs-sprks.xyz](https://reaktivierungs-sprks.xyz) for phishing | [Sparkasse](https://www.sparkasse.de) |
-| [reaktivierungs-sprks.xyz](https://reaktivierungs-sprks.xyz) | N/A | [OwnRegistrar, Inc.](https://ownregistrar.com/abuse) | [OwnRegistrar, Inc.](https://ownregistrar.com/abuse) | - | phishing | [Sparkasse](https://www.sparkasse.de) |
-| [sid-check.com](https://sid-check.com) | N/A | [OwnRegistrar, Inc.](https://ownregistrar.com/abuse) | [OwnRegistrar, Inc.](https://ownregistrar.com/abuse) | - | phishing | [Sparkasse](https://www.sparkasse.de) |
-| [dacmcrypto.com](https://www.dacmcrypto.com/h5/#/pages/mine/register?invite_code=HFBHXR.) | N/A | [NameSilo, LLC](https://www.namesilo.com/report_abuse.php) | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | `HFBHXR` | cryptocurrency investment scam (presented as mining) | - |
-| [dacm-crypto.com](https://www.dacm-crypto.com/h5/#/pages/mine/register?invite_code=DL7QGZ) | - | [GoDaddy.com, LLC](https://supportcenter.godaddy.com/AbuseReport) | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | `DL7QGZ` | cryptocurrency investment scam (presented as mining) | - |
-| [msssetd.com](https://msssetd.com/#/login?type=register&yCode=88jo9762308) | N/A | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [CNO Bin / Ordertld](http://www.ordertld.com/support.html) | `88jo9762308` | cryptocurrency investment scam | - |
-| https://wealthjourney.world | - | [GoDaddy.com, LLC](https://supportcenter.godaddy.com/AbuseReport) | [Wild West Domains, LLC](https://www.wildwestdomains.com) | - | gateway for a Whatsapp-based investment scam | impersonates [Martin Currie Limited](https://www.martincurrie.com) in Whatsapp |
+| [cabinsecure.com](https://cabinsecure.com/ca5yl2k.php) | [Dreamhost](https://www.dreamhost.com/legal/abuse) | N/A | [GoDaddy.com, LLC](https://supportcenter.godaddy.com/AbuseReport) | - | collecting contact data for an investment scam | [Tagesschau](https://www.tagesschau.de) |
+| [app-sparkasse.info](https://app-sparkasse.info)  |? | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [OwnRegistrar, Inc.](https://ownregistrar.com/abuse) | - | redirects to [reaktivierungs-sprks.xyz](https://reaktivierungs-sprks.xyz) for phishing | [Sparkasse](https://www.sparkasse.de) |
+| [reaktivierungs-sprks.xyz](https://reaktivierungs-sprks.xyz) | ? | [OwnRegistrar, Inc.](https://ownregistrar.com/abuse) | [OwnRegistrar, Inc.](https://ownregistrar.com/abuse) | - | phishing | [Sparkasse](https://www.sparkasse.de) |
+| [sid-check.com](https://sid-check.com) | ? | [OwnRegistrar, Inc.](https://ownregistrar.com/abuse) | [OwnRegistrar, Inc.](https://ownregistrar.com/abuse) | - | phishing | [Sparkasse](https://www.sparkasse.de) |
+| [dacmcrypto.com](https://www.dacmcrypto.com/h5/#/pages/mine/register?invite_code=HFBHXR.) | ? | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [NameSilo, LLC](https://www.namesilo.com/report_abuse.php) | `HFBHXR` | cryptocurrency investment scam (presented as mining) | - |
+| [dacm-crypto.com](https://www.dacm-crypto.com/h5/#/pages/mine/register?invite_code=DL7QGZ) | ? | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [GoDaddy.com, LLC](https://supportcenter.godaddy.com/AbuseReport) | `DL7QGZ` | cryptocurrency investment scam (presented as mining) | - |
+| [msssetd.com](https://msssetd.com/#/login?type=register&yCode=88jo9762308) | ? | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [CNO Bin / Ordertld](http://www.ordertld.com/support.html) | `88jo9762308` | cryptocurrency investment scam | - |
+| https://wealthjourney.world | suspected: GoDaddy | [GoDaddy.com, LLC](https://supportcenter.godaddy.com/AbuseReport) | [Wild West Domains, LLC](https://www.wildwestdomains.com) | - | gateway for a Whatsapp-based investment scam | impersonates [Martin Currie Limited](https://www.martincurrie.com) in Whatsapp |
+
+## Legend
+**DNS middleman** - the company that offers anonymization services for the web server regardless of content, essentially enabling cybercrime
+**N/A** - not applicable, i.e. when a *DNS middleman* was not chosen (easier prosecution)
+**?** hoster cannot be determined thanks to the *DNS middleman*
 
 ## TODO domains
 The following domains are shielded by [OwnRegistrar, Inc.](https://ownregistrar.com/abuse) but their names give away that they're most likely phishing:
@@ -43,11 +49,12 @@ The following domains are shielded by [OwnRegistrar, Inc.](https://ownregistrar.
 
 ## Nameservers
 DNS middleman services hide the IP addresses of servers. Whilst originally designed as a cybersecurity measure, those providers see no problem with being an enabler of crime and refuse to take action even when the scam report is very easy to validate. The nameservers indirectly reveal who the DNS middleman is, as their DNS servers listed in the whois query can be mapped to the middleman:
-| DNS server              | Real middleman                                    |
-|-------------------------|---------------------------------------------------|
-| *.registrar-servers.com | [Namecheap](http://www.namecheap.com)             |
-| *.ns.cloudflare.com     | [Cloudflare](https://www.cloudflare.com)          |
+| DNS server              | Real middleman                                       |
+|-------------------------|------------------------------------------------------|
+| *.registrar-servers.com | [Namecheap](http://www.namecheap.com)                |
+| *.ns.cloudflare.com     | [Cloudflare](https://www.cloudflare.com)             |
 | *.managedns.org         | [OwnRegistrar, Inc.](https://ownregistrar.com/abuse) |
+Choosing names different from the company name and not running any landing page under these domains indicates how well-aware these companies are of the abuse potential associated with the services they offer. Their ideal solution consists not of taking action, but instead of trying to mask their affiliation.
 
 ## Contributing
 If you find any new domains, just open an issue with the domain or create a pull request with the amendments.

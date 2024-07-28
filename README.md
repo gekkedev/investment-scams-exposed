@@ -26,6 +26,7 @@ Investment scam websites are increasingly common, often promising impossibly hig
 | [alf-crypto.top](https://www.alf-crypto.top/h5/#/pages/mine/register?invite_code=UJJGWR) | ? | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [NameSilo, LLC](https://www.namesilo.com/report_abuse.php) | `UJJGWR` | cryptocurrency investment scam (presented as mining) | - |
 | [msssetd.com](https://msssetd.com/#/login?type=register&yCode=88jo9762308) | ? | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [CNO Bin / Ordertld](http://www.ordertld.com/support.html) | `88jo9762308` | cryptocurrency investment scam | - |
 | https://wealthjourney.world | suspected: GoDaddy | [GoDaddy.com, LLC](https://supportcenter.godaddy.com/AbuseReport) | [Wild West Domains, LLC](https://www.wildwestdomains.com) | - | gateway for a Whatsapp-based investment scam | impersonates [Martin Currie Limited](https://www.martincurrie.com) in Whatsapp |
+| [enterpagepoliicy.com](http://centerpagepoliicy.com/meta-community-standard) | [UltaHost](https://ultahost.com/report-abuse) | N/A | [Web Commerce Communications Ltd](http://www.webnic.cc) | - | phishing website pretending to be Meta/Facebook | [Facebook](https://www.facebook.com) |
 
 ## Legend
 **DNS middleman** - the company that offers anonymization services for the web server regardless of content, essentially enabling cybercrime  
@@ -67,6 +68,7 @@ TDB
 TDB
 ### Copyright holders / brands
 TDB
+- [https://phish.report](phish.report): easy-to-use tool to report infringements
 
 ## Nameservers
 DNS middleman services hide the IP addresses of servers. Whilst originally designed as a cybersecurity measure, those providers see no problem with being an enabler of crime and refuse to take action even when the scam report is very easy to validate. The nameservers indirectly reveal who the DNS middleman is, as their DNS servers listed in the whois query can be mapped to the middleman:

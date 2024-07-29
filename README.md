@@ -27,6 +27,7 @@ Investment scam websites are increasingly common, often promising impossibly hig
 | [msssetd.com](https://msssetd.com/#/login?type=register&yCode=88jo9762308) | ? | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [CNO Bin / Ordertld](http://www.ordertld.com/support.html) | `88jo9762308` | cryptocurrency investment scam | - |
 | https://wealthjourney.world | suspected: GoDaddy | [GoDaddy.com, LLC](https://supportcenter.godaddy.com/AbuseReport) | [Wild West Domains, LLC](https://www.wildwestdomains.com) | - | gateway for a Whatsapp-based investment scam | impersonates [Martin Currie Limited](https://www.martincurrie.com) in Whatsapp |
 | [enterpagepoliicy.com](http://centerpagepoliicy.com/meta-community-standard) | [UltaHost](https://ultahost.com/report-abuse) | N/A | [Web Commerce Communications Ltd](http://www.webnic.cc) | - | phishing website pretending to be Meta/Facebook | [Facebook](https://www.facebook.com) |
+| [dex-crypto.com](https://www.dex-crypto.com/app/#/) | [heng.ai](http://heng.ai) | N/A |[Web Commerce Communications Ltd](http://www.webnic.cc) | - | fake cryptocurrency trading platform | - |
 
 ## Legend
 **DNS middleman** - the company that offers anonymization services for the web server regardless of content, essentially enabling cybercrime  
@@ -62,12 +63,23 @@ The following domains are shielded by [OwnRegistrar, Inc.](https://ownregistrar.
 - not cross-checking newly registered domains with brand databases to flag them for manual revies
   - can be done as a post-purchase process to avoid impacts on sales
 - TBD
+### Whois middlemen
+ - i.e. https://whoisprotection.cc/complaint
+ - TODO: add a column; often it appears to be the registrar itself
 ### DNS middlemen
 TDB
 ### Web hosters
 TDB
 ### Copyright holders / brands
 TDB
+- [https://phish.report](phish.report): easy-to-use tool to report infringements
+
+## Potential measures
+- report to the domain registrar
+  - ineffective when no contact form / data provided, especially when located in China
+- report to the webhoster
+  - often anonymized by a DNS middleman
+- https://safebrowsing.google.com/safebrowsing/report_phish
 - [https://phish.report](phish.report): easy-to-use tool to report infringements
 
 ## Nameservers

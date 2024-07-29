@@ -8,7 +8,7 @@ Investment scam websites are increasingly common, often promising impossibly hig
 |----------------------|----------------|--------------------|------------------|-----------------|--------------------------------------|-------------------------------------------|
 | [tunework.world](https://tunework.world) | ? | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [Alibaba](https://www.alibabacloud.com/domain) |  `HK3YNF` | redirects to tunework.live | - |
 | [tunework.live](https://tunework.live) | ? | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [Alibaba](https://www.alibabacloud.com/domain) | `HK3YNF` | cryptocurrency investment scam advertised as a work opportunity | alleges to be partners with Google, Apple, Microsoft, Meta, TikTok, and |
-| [ilpudse.pics](https://ilpudse.pics) | ? | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [Public Domain Registry](https://publicdomainregistry.com) | - | investment scam | pretends to be [Spiegel](https://www.spiegel.de) |
+| [ilpudse.pics](https://ilpudse.pics) | ? | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [Public Domain Registry](https://publicdomainregistry.com/dedicated-abuse-contact) | - | investment scam | pretends to be [Spiegel](https://www.spiegel.de) |
 | [www.adjust6.com](www.adjust6.com) | ? | [Gname](https://www.gname.com) | [Gname](https://www.gname.com) | - | forwards to [a WhatsApp number](https://api.whatsapp.com/send/?phone=447562167485&text&type=phone_number&app_absent=0) which tells you to visit [adjust-work.net](https://www.adjust-work.net) | [adjust.com](https://www.adjust.com) |
 | [adjust-work.net](https://www.adjust-work.net) | ? | [Gname](https://www.gname.com) | [Gname](https://www.gname.com) | `bWejuP` | Cryptocurrency investment scam involving the Telegram number +33745348532 | using the name and logo of [adjust.com](https://www.adjust.com) |
 | [m.aocfx.com](https://m.aocfx.com) | ? | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [Gname](https://www.gname.com) | `BUOYGV` | cryptocurrency investment scam involving the Telegram username `BainCapitalDelia` | impersonates [BainCapital](https://www.baincapital.com) in WhatsApp & uses their logo |
@@ -28,6 +28,7 @@ Investment scam websites are increasingly common, often promising impossibly hig
 | https://wealthjourney.world | suspected: GoDaddy | [GoDaddy.com, LLC](https://supportcenter.godaddy.com/AbuseReport) | [Wild West Domains, LLC](https://www.wildwestdomains.com) | - | gateway for a Whatsapp-based investment scam | impersonates [Martin Currie Limited](https://www.martincurrie.com) in Whatsapp |
 | [enterpagepoliicy.com](http://centerpagepoliicy.com/meta-community-standard) | [UltaHost](https://ultahost.com/report-abuse) | N/A | [Web Commerce Communications Ltd](http://www.webnic.cc) | - | phishing website pretending to be Meta/Facebook | [Facebook](https://www.facebook.com) |
 | [dex-crypto.com](https://www.dex-crypto.com/app/#/) | [heng.ai](http://heng.ai) | N/A |[Web Commerce Communications Ltd](http://www.webnic.cc) | - | fake cryptocurrency trading platform | - |
+| [axvc-exchange.net](https://www.axvc-exchange.net/#/pages/login/register?code=OK4S7T29W) | ? | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [Public Domain Registry](https://publicdomainregistry.com/dedicated-abuse-contact) | `OK4S7T29W` | fake cryptocurrency trading platform  | - |
 
 ## Legend
 **DNS middleman** - the company that offers anonymization services for the web server regardless of content, essentially enabling cybercrime  
@@ -60,11 +61,12 @@ The following domains are shielded by [OwnRegistrar, Inc.](https://ownregistrar.
 
 ## Accusations to involved careless parties
 ### Domain registrars
-- not cross-checking newly registered domains with brand databases to flag them for manual revies
+- not cross-checking newly registered domains with brand databases to flag them for manual review
   - can be done as a post-purchase process to avoid impacts on sales
 - TBD
 ### Whois middlemen
  - i.e. https://whoisprotection.cc/complaint
+ - https://privacyprotect.org/#report_abuse
  - TODO: add a column; often it appears to be the registrar itself
 ### DNS middlemen
 TDB

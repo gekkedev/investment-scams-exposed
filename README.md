@@ -29,6 +29,8 @@ Investment scam websites are increasingly common, often promising impossibly hig
 | [enterpagepoliicy.com](http://centerpagepoliicy.com/meta-community-standard) | [UltaHost](https://ultahost.com/report-abuse) | N/A | [Web Commerce Communications Ltd](http://www.webnic.cc) | phishing website pretending to be Meta/Facebook | [Facebook](https://www.facebook.com) |
 | [dex-crypto.com](https://www.dex-crypto.com/app/#/) | [heng.ai](http://heng.ai) | N/A |[Web Commerce Communications Ltd](http://www.webnic.cc) | fake cryptocurrency trading platform |
 | [axvc-exchange.net](https://www.axvc-exchange.net/#/pages/login/register?code=OK4S7T29W) | ? | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [Public Domain Registry](https://publicdomainregistry.com/dedicated-abuse-contact) |  fake cryptocurrency trading platform  | - |
+| [noitn.top](https://www.noitn.top/page/wy/a81de) <br> [fduft.top](https://www.fduft.top/page/wy/a81de) | ? | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [NameSilo, LLC](https://www.namesilo.com/report_abuse.php) | gateway for a Whatsapp-based investment scam (presented as trading signals) | - |
+| [fnewky.com](https://token.fnewky.com) | ? | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [GoDaddy.com, LLC](https://supportcenter.godaddy.com/AbuseReport) | gateway for a Whatsapp-based investment scam | - |
 
 ## Legend
 **DNS middleman** - the company that offers anonymization services for the web server regardless of content, essentially enabling cybercrime  

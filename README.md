@@ -31,6 +31,7 @@ Investment scam websites are increasingly common, often promising impossibly hig
 | [axvc-exchange.net](https://www.axvc-exchange.net/#/pages/login/register?code=OK4S7T29W) | ? | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [Public Domain Registry](https://publicdomainregistry.com/dedicated-abuse-contact) |  fake cryptocurrency trading platform  | - |
 | [noitn.top](https://www.noitn.top/page/wy/a81de) <br> [fduft.top](https://www.fduft.top/page/wy/a81de) | ? | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [NameSilo, LLC](https://www.namesilo.com/report_abuse.php) | gateway for a Whatsapp-based investment scam (presented as trading signals) | - |
 | [fnewky.com](https://token.fnewky.com) | ? | [Cloudflare](https://www.cloudflare.com/trust-hub/reporting-abuse) | [GoDaddy.com, LLC](https://supportcenter.godaddy.com/AbuseReport) | gateway for a Whatsapp-based investment scam | - |
+| [worldminer.io](https://h5.worldminer.io/#/pages/mnemonic/create?code=JYYS5Z3D) | ? | [Dynadot LLC](https://www.dynadot.com/report-abuse) | [Dynadot Inc.](https://www.dynadot.com/report-abuse) | cryptocurrency investment scam (presented as mining) | - |
 
 ## Legend
 **DNS middleman** - the company that offers anonymization services for the web server regardless of content, essentially enabling cybercrime  
@@ -69,6 +70,7 @@ The following domains are shielded by [OwnRegistrar, Inc.](https://ownregistrar.
  - i.e. https://whoisprotection.cc/complaint
  - https://privacyprotect.org/#report_abuse
  - privacyguardian.org
+ - "Super Privacy Service LTD c/o Dynadot"
  - TODO: add a column although often it appears to be the registrar itself or their shell company
 ### DNS middlemen
 TDB
@@ -94,6 +96,7 @@ DNS middleman services hide the IP addresses of servers. Whilst originally desig
 | *.registrar-servers.com | [Namecheap](http://www.namecheap.com)                |
 | *.ns.cloudflare.com     | [Cloudflare](https://www.cloudflare.com)             |
 | *.managedns.org         | [OwnRegistrar, Inc.](https://ownregistrar.com/abuse) |
+| *.dyna-ns.net           | [Dynadot LLC](https://www.dynadot.com/report-abuse)  |
 Choosing names different from the company name and not running any landing page under these domains indicates how well-aware these companies are of the abuse potential associated with the services they offer. Their ideal solution consists not of taking action, but instead of trying to mask their affiliation.
 
 ## Contributing
